@@ -36,17 +36,17 @@ An IDE like IntelliJ IDEA, Eclipse, or NetBeans (optional).
 
 How to Run
 
-Compile the Code
+1.Compile the Code
 Open your terminal or IDE and compile both the server and client files:
 
 javac ChatServerGUI.java javac ChatClientGUI.java
 
-Run the Server
+2.Run the Server
 Start the server first to listen for incoming connections:
 
 java ChatServerGUI
 
-Run the Client
+3.Run the Client
 Open another terminal window or run from your IDE:
 
 java ChatClientGUI
